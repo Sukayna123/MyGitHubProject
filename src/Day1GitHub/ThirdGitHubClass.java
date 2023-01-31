@@ -2,6 +2,6 @@ package Day1GitHub;
 
 public class ThirdGitHubClass {
     public static void main(String[] args) {
-        System.out.println("I am writing this on Sukayna Feature");
+        System.out.println("i am writing this on Sukayna Feature");
     }
 }
